@@ -107,11 +107,11 @@ body {
   padding: 14px 18px;
   border-radius: 40px;
   text-decoration: none;
-  color: #fff;
+  color: black;
   font-weight: 600;
   background: rgba(255,255,255,0.05);
   transition: 0.2s;
-  background-color: #74aad6;
+  background-color: black;
 }
 
 .link:hover {
