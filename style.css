@@ -148,17 +148,10 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
-.card {
-  background: rgba(255, 255, 255, 0.1);
- /* backdrop-filter: blur(4px); */
-  border-radius: 20px;
-  width: 90%;
-  max-width: 400px;
-  margin: 60px auto;
-  padding: 20px;
-  text-align: center;
-  color: white;
-}
+/* .card {
+/*  background: rgba(255, 2 */
+ /* backdrop- */
+  
 .icon-btn:hover {
 background-color: #3474a8;
 }
